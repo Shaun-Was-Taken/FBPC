@@ -1,7 +1,4 @@
-from cgi import test
-from pprint import pprint
 import tkinter
-from turtle import title
 from pyparsing import col
 import requests
 from bs4 import BeautifulSoup
